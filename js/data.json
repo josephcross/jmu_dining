@@ -1,0 +1,149 @@
+[
+    {
+        "name" : "Chick-Fil-A",
+        "short_name" : "chik-fil-a",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/ChickFilA.aspx",
+        "isOpen" : false
+    },  
+    {
+        "name" : "D-Hall",
+        "short_name" : "d-hall",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/D-Hall.aspx",
+        "isOpen" : false
+    },  
+    {
+        "name" : "Bistro 1908",
+        "short_name" : "bistro-1908",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/Bistro1908.aspx",
+        "isOpen" : false
+    },  
+    {
+        "name" : "Dog Pound",
+        "short_name" : "dog-pound",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/DogPound.aspx",
+        "isOpen" : false
+    },  
+    {
+        "name" : "Dunkin' Donuts",
+        "short_name" : "dunkin-donuts",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/DunkinDonuts.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Grace Street Market",
+        "short_name" : "grace-street-market",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/GraceStreetMarket.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "E-Hall",
+        "short_name" : "e-hall",
+        "campus" : "east",
+        "link" : "https://jmu.campusdish.com/Locations/E-Hall.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Einstein Bros. Bagels",
+        "short_name" : "einstein-bros",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/EinsteinBrosBagels.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Festival",
+        "short_name" : "festival",
+        "campus" : "east",
+        "link" : "https://jmu.campusdish.com/Locations/FestivalFoodCourt.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Jemmy's",
+        "short_name" : "jemmys",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/Jemmys.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Lakeside Express",
+        "short_name" : "lakeside-express",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/LakesideExpress.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Let's Go Local",
+        "short_name" : "lets-go",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/LetsGoLocal.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Madison Grill",
+        "short_name" : "madison-grill",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/MadisonGrill.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Market One",
+        "short_name" : "market-one",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/MarketOne.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Mister Chips",
+        "short_name" : "mister-chips",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/MisterChips.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Mrs. Green's",
+        "short_name" : "mrs-greens",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/MrsGreens.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "PC Dukes",
+        "short_name" : "dukes",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/PCDukes.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "UREC Smoothie Bar",
+        "short_name" : "urec-smoothie-bar",
+        "campus" : "east",
+        "link" : "https://jmu.campusdish.com/Locations/SmoothieBaratUREC.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Carrier Starbucks",
+        "short_name" : "carrier-starbucks",
+        "campus" : "main",
+        "link" : "https://jmu.campusdish.com/Locations/StarbucksatCarrierLibrary.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "ECL Starbucks",
+        "short_name" : "ecl-starbucks",
+        "campus" : "east",
+        "link" : "https://jmu.campusdish.com/Locations/StarbucksatRoseLibrary.aspx",
+        "isOpen" : false
+    },
+    {
+        "name" : "Top Dog",
+        "short_name" : "top-dog",
+        "campus" : "main",
+        "link" : "http://jmu.campusdish.com/Locations/TopDog.aspx",
+        "isOpen" : false
+    }
+]
